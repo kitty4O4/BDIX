@@ -1,5 +1,8 @@
 ![image](https://github.com/0xAhmadYousuf/BDIX/assets/139548576/3db54d8f-7181-4702-b9ae-9120676eedf2)
 
+# What is BDIX?
+
+BDIX stands for Bangladesh Internet Exchange. It is an IX which Covers The Bandwidth Traffic Under It's NAT, Especially in Peering-ISPs. For More Information, Google About It.
 
 
 # BDIX FTP, TV, MOVIE Servers Checking Project
